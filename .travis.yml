@@ -1,5 +1,6 @@
 language: java
 script:
+  - pwd
   - git clone https://github.com/csie-asia-Java-Programming-1/TestingData.git
   - cd src/ex/
   - tail -n +2 "ex01.java" > "ex01.java.tmp" && mv "ex01.java.tmp" "ex01.java"
