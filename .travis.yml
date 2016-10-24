@@ -21,6 +21,7 @@ script:
   - javac ex03.java
   - javac ex04.java
   - javac ex05.java
+  - javac ex06.java
   - ls -a
   - cd ../hw/
   - javac hw01.java
