@@ -29,14 +29,14 @@ script:
   - javac hw04.java
   - ls -a
   - cd ../ex/
-  - java ex01 < ../../TestingData/ex01.txt
-  - java ex02 < ../../TestingData/ex02.txt
-  - java ex03 < ../../TestingData/ex03.txt
-  - java ex04 < ../../TestingData/ex04.txt
-  - java ex05 < ../../TestingData/ex05.txt
-  - java ex06 < ../../TestingData/ex06.txt
+  - java ex01 < ../../TestingData/week05-20161024/ex01.txt
+  - java ex02 < ../../TestingData/week05-20161024/ex02.txt
+  - java ex03 < ../../TestingData/week05-20161024/ex03.txt
+  - java ex04 < ../../TestingData/week05-20161024/ex04.txt
+  - java ex05 < ../../TestingData/week05-20161024/ex05.txt
+  - java ex06 < ../../TestingData/week05-20161024/ex06.txt
   - cd ../ex/
-  - java hw01 < ../../TestingData/hw01.txt
-  - java hw02 < ../../TestingData/hw02.txt
-  - java hw03 < ../../TestingData/hw03.txt
-  - java hw04 < ../../TestingData/hw04.txt
+  - java hw01 < ../../TestingData/week05-20161024/hw01.txt
+  - java hw02 < ../../TestingData/week05-20161024/hw02.txt
+  - java hw03 < ../../TestingData/week05-20161024/hw03.txt
+  - java hw04 < ../../TestingData/week05-20161024/hw04.txt
