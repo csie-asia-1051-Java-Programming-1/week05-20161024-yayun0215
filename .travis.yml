@@ -35,7 +35,8 @@ script:
   - java ex04 < ../../TestingData/week05-20161024/ex04.txt
   - java ex05 < ../../TestingData/week05-20161024/ex05.txt
   - java ex06 < ../../TestingData/week05-20161024/ex06.txt
-  - cd ../ex/
+  - pwd
+  - cd ../hw/
   - java hw01 < ../../TestingData/week05-20161024/hw01.txt
   - java hw02 < ../../TestingData/week05-20161024/hw02.txt
   - java hw03 < ../../TestingData/week05-20161024/hw03.txt
